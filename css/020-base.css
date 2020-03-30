@@ -200,3 +200,12 @@ overflow-wrap: break-word;
 word-wrap: break-word;
 hyphens: auto;
 }
+
+
+
+  
+li{
+  list-style: none;
+}a{
+  margin-bottom: 8px;
+}

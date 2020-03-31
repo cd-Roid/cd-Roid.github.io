@@ -16,7 +16,7 @@ Enthält alle Regeln zum Layout.
 #l-mainHeader{
   padding: var(--l);
   padding-bottom: var(--xxl);
-  background: var(--color-background-dark);
+  background: black;
   color: var(--color-backgrounds);
   margin-bottom: var(--xl);
 }
